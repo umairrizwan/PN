@@ -1,5 +1,6 @@
 <h1>Test Automation Framework using  Maven, Java, RestAssured, Junit </h1>
 Clone from https://github.com/umairrizwan/PN Open project in eclipse and extend the folder structure and copy the path of the file  global.properties
+
 ![image](https://user-images.githubusercontent.com/63503754/195016538-1745f106-32de-4590-adc2-7228e0dd46bf.png)
 
 
